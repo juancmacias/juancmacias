@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bienveneido a mi repositorio personal
+En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas se continuar para adquirir competencias en el desarrollo personal y profesional.
+
 
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
