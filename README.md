@@ -1,6 +1,11 @@
 ### Bienveneido a mi repositorio personal
 En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas se continuar para adquirir competencias en el desarrollo personal y profesional.
-
+| Nivel | Lenguaje |
+|-----:|-----------|
+|     1| PHP|
+|     2| Java    |
+|     3| SQL       |
+|4| JavaScript|
 
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
