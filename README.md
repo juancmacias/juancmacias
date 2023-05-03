@@ -9,14 +9,7 @@ En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas
 
 
 
-```mermaid
-graph TD;
-    A(Inicio)-->B(Seleccionar comunidad)-->C(Seleccionar provincia)-->D(Seleccionar localidad);
-    D-->E(Número de itinerarios);
-    E-->A;
-    E-->F(Leer QR);
-    E-->G(Crear imagen);
-```
+
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
