@@ -12,9 +12,9 @@ En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas
 ```mermaid
 graph TD;
     A-->B;
-    A-->C;
-    B-->D;
+    B-->C;
     C-->D;
+    D-->D;
 ```
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
