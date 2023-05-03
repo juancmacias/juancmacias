@@ -11,7 +11,7 @@ En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas
 
 ```mermaid
 graph TD;
-    A(Inicio)-->B;
+    A(Inicio)-->B(Seleccionar comunidad)-->C(Seleccionar provincia);
     B-->C;
     C-->D;
     D-->D;
