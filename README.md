@@ -11,7 +11,7 @@ En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas
 
 ```mermaid
 graph TD;
-    A-->B;
+    A(Inicio)-->B;
     B-->C;
     C-->D;
     D-->D;
