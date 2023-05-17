@@ -1,5 +1,5 @@
 ### Bienvenido a mi repositorio personal
-En el puede encontrar algunas cosas seria y no tan serias, pero sobre todo ganas se continuar para adquirir competencias en el desarrollo personal y profesional.
+Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ganas de continuar para adquirir competencias en el desarrollo personal y profesional.
 | Nivel | Lenguaje |
 |-----:|-----------|
 |     1| PHP|
