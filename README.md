@@ -7,7 +7,8 @@ Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ga
 ## 🛠 Skills
 PHP, Java, SQL, React, Tizen, Javascript, HTML, CSS...
 
-[JuanCarlosMacias.es](http://www.juancarlosmacias.es)
+## 🔗 Links
+[![portfolio](http://www.juancarlosmacias.es/macias.PNG)](http://www.juancarlosmacias.es/)
 
 
 
