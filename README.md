@@ -1,6 +1,9 @@
 ## 🚀 About Me
 <img src="https://komarev.com/ghpvc/?username=juancmacias&label=Profile%20views&color=0e75b6&style=flat" alt="juancmacias" />
 Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ganas de continuar para adquirir competencias en el desarrollo personal y profesional.
+
+
+
 ## 🛠 Skills
 PHP, Java, SQL, React, Tizen, Javascript, HTML, CSS...
 
