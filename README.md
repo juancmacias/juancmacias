@@ -12,7 +12,9 @@ PHP, Java, SQL, React, Tizen, Javascript, HTML, CSS...
 
 
 
-
+## ¿Porque esa imagen en mi perfil?
+Estoy seguro que muchas de las personas que me conoceis os preguntais porque tengo una imagen tan literal en mi imagen de perfil, no solo aquí o en otras redes en las que es necesario tener una imagen, y la respuesta es muy simple:
+En unos de mis viajes, conociendo la ciudad natal de mi esposa, ella nacio en Oslo, descubrimos el El parque de Vigeland
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
