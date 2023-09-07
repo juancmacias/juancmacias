@@ -19,7 +19,7 @@ Afrontar nuevos retos, para mejorar con la tecnología el día a día de las per
 Estoy seguro que muchas de las personas que me conoceis os preguntais porque tengo una imagen tan literal en mi imagen de perfil, no solo aquí o en otras redes en las que es necesario tener una imagen, y la respuesta es muy simple:<br>
 En unos de mis viajes, conociendo la ciudad natal de mi esposa, ella nacio en Oslo, descubrimos el [El parque de Vigeland](https://es.wikipedia.org/wiki/Parque_de_Vigeland), en este parque pasamos horas admirando la realidad de las esculturas, creado entre los años 1907 y 1940 por el escultor noruego Gustav Vigeland plasmo de una forma muy realista la rueda de la vida en cada una de sus etapas. En mi paso y desde mi punto de vista el hombre, no como masculino sino como persona, esta luchando para romper las barreras con las que se cuentra, y así poder avanzar como persona. Por aquella epoca, en la que visite Oslo, aún seguia siendo trabajado por cuenta propia, una lucha constante de superación.<br>
 Debo confesar, que me impacto mucho, me hizo ver, que aunque hayan pasado muchos años, la vida es siempre lo mismo, aunque dispongamos de mas medios para vivir mejor, mas comodos, etc.<br>
-Me gusta esta imagen, y me representa mucho, siempre luchando, siempre intentandolo...
+Me gusta esta imagen, y me representa mucho, siempre luchando, siempre intentandolo... {try...catch...finally}
 <!--
 **juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
