@@ -8,8 +8,7 @@ Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ga
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
 Java, API (creación y consumo), Java Android, PHP, MySQL, SQL, SQLite, Symfony, React, Taizen, HTML, CSS, JavaScript, A-frame 3D, Git, Github.
 
-## 🔗 Links
-[![portfolio](http://www.juancarlosmacias.es/macias.PNG)](http://www.juancarlosmacias.es/)
+
 
 Conocimiento técnicos en entornos de desarrollo. Experiencia con más de 20 años, en los sectores electrónica, Health, Startup y diseño y desarrollo web.
 Afrontar nuevos retos, para mejorar con la tecnología el día a día de las personas, al igual que el de empresas. Amplios conocimientos en (Front y Back End). Resolutivo en la toma de decisiones. Capacidades de trabajo en equipo,
