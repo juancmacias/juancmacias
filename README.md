@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=juancmacias&label=Profile%20views&color=0e75b6&style=flat" alt="juancmacias" />
 Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ganas de continuar para adquirir competencias en el desarrollo personal y profesional.
 
-
+## Coffe
+Si quieres invitarme a un café puede seguir este enlace [invitar café](https://buymeacoffee.com/juancmaciau)
 
 ## 🛠 Skills
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
