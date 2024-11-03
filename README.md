@@ -7,7 +7,7 @@ Si quieres invitarme a un café puede seguir este enlace [invitar café](https:/
 
 Si quieres ver todo mi repositorio lo puede encontrar aqui [Mis trabajos](https://github.com/juancmacias?tab=repositories)
 
-Visitar mi perfin el Github [Ver perfil GitHub Juan Carlos Macías](https://github.com/juancmacias)
+Visitar mi perfin el Github <a href="https://github.com/juancmacias">Ver perfil GitHub Juan Carlos Macías</a>
 
 ## 🛠 Skills
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="http://www.juancarlosmacias.es" title="Porfolio de Juan Carlos Macías">Visitar mi porfolio</a>
 
- [Visitar mi porfolio](http://www.juancarlosmacias.es)
