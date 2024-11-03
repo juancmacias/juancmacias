@@ -1,7 +1,6 @@
 ## 🚀 About Me
 <img src="https://komarev.com/ghpvc/?username=juancmacias&label=Profile%20views&color=0e75b6&style=flat" alt="juancmacias" />
 Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ganas de continuar para adquirir competencias en el desarrollo personal y profesional.
-<meta name="google-site-verification" content="EAWokAbijtB8uWYhcf01Ng3X0xwKWB1lhSF4s_5CzPw" />
 ## Coffe
 Si quieres invitarme a un café puede seguir este enlace [invitar café](https://buymeacoffee.com/juancmaciau)
 
