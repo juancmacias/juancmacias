@@ -7,6 +7,8 @@ Si quieres invitarme a un café puede seguir este enlace [invitar café](https:/
 
 Si quieres ver todo mi repositorio lo puede encontrar aqui [Mis trabajos](https://github.com/juancmacias?tab=repositories)
 
+Visitar mi perfin el Github [Ver perfil GitHub Juan Carlos Macías](https://github.com/juancmacias)
+
 ## 🛠 Skills
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
 Java, API (creación y consumo), Java Android, PHP, MySQL, SQL, SQLite, Symfony, React, Taizen, HTML, CSS, JavaScript, A-frame 3D, Git, Github.
