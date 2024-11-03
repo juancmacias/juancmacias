@@ -4,7 +4,8 @@ Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ga
 
 ## Coffe
 Si quieres invitarme a un café puede seguir este enlace [invitar café](https://buymeacoffee.com/juancmaciau)
-Si quieres ver todo mi repositorio lo puede encontrar aqui [Mis trabajo](https://github.com/juancmacias?tab=repositories)
+
+Si quieres ver todo mi repositorio lo puede encontrar aqui [Mis trabajos](https://github.com/juancmacias?tab=repositories)
 
 ## 🛠 Skills
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
@@ -35,4 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  [Visitar mi porfolio](http://www.juancarlosmacias.es)
