@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
 <a href="http://www.juancarlosmacias.es" title="Porfolio de Juan Carlos Macías">Visitar mi porfolio</a>
+##
 <a href="https://www.grupogestorhv.es" title="Gestoría y asesoría en Rivas Vaciamadrid y Madrid">Mi último trabajo es la gestoría y asesoria en Rivas Vaciamadrid</a>
 
