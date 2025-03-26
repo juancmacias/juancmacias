@@ -11,7 +11,7 @@ Visitar mi perfin el Github <a href="https://github.com/juancmacias">Ver perfil 
 
 ## 🛠 Skills
 Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
-Java, API (creación y consumo), Java Android, PHP, MySQL, SQL, SQLite, Symfony, React, Taizen, HTML, CSS, JavaScript, A-frame 3D, Git, Github.
+Java, API (creación y consumo), Java Android, PHP, Python, MySQL, SQL, SQLite, MongoDB, Symfony, React, Taizen, HTML, CSS, JavaScript, A-frame 3D, Git, Github.
 
 
 
