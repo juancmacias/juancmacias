@@ -1,45 +1,42 @@
-## 🚀 About Me
+## 🚀 Sobre Mí
+
 <img src="https://komarev.com/ghpvc/?username=juancmacias&label=Profile%20views&color=0e75b6&style=flat" alt="juancmacias" />
-Aquí puedes encontrar algunas cosas serias y no tan serias, pero sobre todo, ganas de continuar para adquirir competencias en el desarrollo personal y profesional.
 
-## Coffe
-Si quieres invitarme a un café puede seguir este enlace [invitar café](https://buymeacoffee.com/juancmaciau)
+Bienvenido a mi perfil. Aquí encontrarás una combinación de proyectos serios y otros más experimentales, pero sobre todo, un espacio donde continúo desarrollando mis competencias tanto a nivel personal como profesional. Me apasiona la tecnología y cómo esta puede mejorar la vida de las personas y las empresas.
 
-Si quieres ver todo mi repositorio lo puede encontrar aqui [Mis trabajos](https://github.com/juancmacias?tab=repositories)
+## ☕ Invítame un café
+Si quieres apoyar mi trabajo, puedes hacerlo a través de este enlace: [Invitar café](https://buymeacoffee.com/juancmaciau).
 
-Visitar mi perfin el Github <a href="https://github.com/juancmacias">Ver perfil GitHub Juan Carlos Macías</a>
+## 📂 Mis Trabajos
+Puedes explorar todos mis repositorios en GitHub aquí: [Mis Repositorios](https://github.com/juancmacias?tab=repositories).
 
-## 🛠 Skills
-Stack: Metaverso, Web3, Analista programador, Desarrollador de aplicaciones con tecnologías web, Green Digital Skills.
-Java, API (creación y consumo), Java Android, PHP, Python, MySQL, SQL, SQLite, MongoDB, Symfony, React, Taizen, HTML, CSS, JavaScript, A-frame 3D, Git, Github.
+También puedes visitar mi perfil en GitHub: [Ver perfil GitHub Juan Carlos Macías](https://github.com/juancmacias).
 
+## 🛠 Habilidades
+### Stack Tecnológico:
+- **Desarrollo Web & Backend**: Java, PHP, Python, MySQL, SQL, SQLite, MongoDB, Symfony, FastAPI.
+- **Frontend**: React, JavaScript, HTML, CSS, A-Frame 3D.
+- **Apps & Web3**: Java Android, Web3, Metaverso.
+- **Herramientas & Gestión**: Git, GitHub, API (creación y consumo), Taizen, Green Digital Skills.
 
+### Experiencia
+Más de 20 años de experiencia en el sector tecnológico, con conocimientos sólidos en desarrollo de software, electrónica, startups y diseño web. He trabajado en múltiples proyectos en sectores como salud, asesoría empresarial, automatización y soluciones digitales para la industria.
 
-Conocimiento técnicos en entornos de desarrollo. Experiencia con más de 20 años, en los sectores electrónica, Health, Startup y diseño y desarrollo web.
-Afrontar nuevos retos, para mejorar con la tecnología el día a día de las personas, al igual que el de empresas. Amplios conocimientos en (Front y Back End). Resolutivo en la toma de decisiones. Capacidades de trabajo en equipo,
- “gestión”, colaboración, autoaprendizaje, entusiasta, organizado, metódico o creativo son algunas de las cualidades que me identifican. 
- 
-## ¿Porque esa imagen en mi perfil?
-Estoy seguro que muchas de las personas que me conoceis os preguntais porque tengo una imagen tan literal en mi imagen de perfil, no solo aquí o en otras redes en las que es necesario tener una imagen, y la respuesta es muy simple:<br>
-En unos de mis viajes, conociendo la ciudad natal de mi esposa, ella nacio en Oslo, descubrimos el [El parque de Vigeland](https://es.wikipedia.org/wiki/Parque_de_Vigeland), en este parque pasamos horas admirando la realidad de las esculturas, creado entre los años 1907 y 1940 por el escultor noruego Gustav Vigeland plasmo de una forma muy realista la rueda de la vida en cada una de sus etapas. En mi paso y desde mi punto de vista el hombre, no como masculino sino como persona, esta luchando para romper las barreras con las que se cuentra, y así poder avanzar como persona. Por aquella epoca, en la que visite Oslo, aún seguia siendo trabajado por cuenta propia, una lucha constante de superación.<br>
-Debo confesar, que me impacto mucho, me hizo ver, que aunque hayan pasado muchos años, la vida es siempre lo mismo, aunque dispongamos de mas medios para vivir mejor, mas comodos, etc.<br>
-Me gusta esta imagen, y me representa mucho, siempre luchando, siempre intentandolo... {try...catch...finally}
-<!--
-**juancmacias/juancmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lo largo de mi trayectoria, he liderado y participado en proyectos de desarrollo de aplicaciones web y móviles, integraciones de APIs, optimización de bases de datos y creación de arquitecturas escalables. Además, cuento con experiencia en la gestión de equipos técnicos y la toma de decisiones estratégicas en entornos ágiles.
 
-Here are some ideas to get you started:
+Soy una persona resolutiva, con gran capacidad de adaptación y aprendizaje continuo. Me motiva afrontar nuevos retos tecnológicos para mejorar el día a día de las personas y optimizar procesos empresariales. Mis habilidades abarcan tanto el frontend como el backend, y disfruto trabajando en proyectos que combinen innovación, eficiencia y una visión estratégica del desarrollo tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##
-<a href="http://www.juancarlosmacias.es" title="Porfolio de Juan Carlos Macías">Visitar mi porfolio</a>
-##
-<a href="https://www.grupogestorhv.es" title="Gestoría y asesoría en Rivas Vaciamadrid y Madrid">Gestoría y asesoría en Rivas Vaciamadrid</a>
+## 📷 ¿Por qué esa imagen en mi perfil?
+
+Si alguna vez te has preguntado por qué uso una imagen tan simbólica como foto de perfil, la respuesta está en un viaje a Oslo, ciudad natal de mi esposa. Allí descubrimos el [Parque de Vigeland](https://es.wikipedia.org/wiki/Parque_de_Vigeland), un lugar impresionante donde las esculturas del artista Gustav Vigeland representan de manera realista el ciclo de la vida y la lucha por superarnos.
+
+Durante esa época, yo trabajaba por cuenta propia y me encontraba en una constante lucha por avanzar y mejorar. Me impactó profundamente cómo la representación de la lucha en las esculturas reflejaba mi propio camino profesional. Desde entonces, esa imagen simboliza mi esfuerzo continuo, mi resiliencia y mi determinación: **siempre luchando, siempre intentándolo... {try...catch...finally}**.
+
+## 🌐 Otros Enlaces
+- 📌 [Mi Portafolio](http://www.juancarlosmacias.es)
+- 🏢 [Gestoría y Asesoría en Rivas Vaciamadrid](https://www.grupogestorhv.es)
+
+---
+Siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactar!
+
 
