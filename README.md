@@ -33,7 +33,7 @@ Si alguna vez te has preguntado por qué uso una imagen tan simbólica como foto
 Durante esa época, yo trabajaba por cuenta propia y me encontraba en una constante lucha por avanzar y mejorar. Me impactó profundamente cómo la representación de la lucha en las esculturas reflejaba mi propio camino profesional. Desde entonces, esa imagen simboliza mi esfuerzo continuo, mi resiliencia y mi determinación: **siempre luchando, siempre intentándolo... {try...catch...finally}**.
 
 ## 🌐 Otros Enlaces
-- 📌 [Mi Portafolio](http://www.juancarlosmacias.es)
+- 📌 [Mi Portafolio](https://www.juancarlosmacias.es)
 
 ---
 Siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactar!
