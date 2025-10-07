@@ -34,7 +34,6 @@ Durante esa época, yo trabajaba por cuenta propia y me encontraba en una consta
 
 ## 🌐 Otros Enlaces
 - 📌 [Mi Portafolio](http://www.juancarlosmacias.es)
-- 🏢 [Gestoría y Asesoría en Rivas Vaciamadrid](https://www.grupogestorhv.es)
 
 ---
 Siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactar!
