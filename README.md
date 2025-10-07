@@ -14,6 +14,7 @@ También puedes visitar mi perfil en GitHub: [Ver perfil GitHub Juan Carlos Mac�
 
 ## 🛠 Habilidades
 ### Stack Tecnológico:
+- **Developer AI junior**: crear soluciones ML, LLM, RAG, Agent, Vision Artificial.
 - **Desarrollo Web & Backend**: Java, PHP, Python, MySQL, SQL, SQLite, MongoDB, Symfony, FastAPI.
 - **Frontend**: React, JavaScript, HTML, CSS, A-Frame 3D.
 - **Apps & Web3**: Java Android, Web3, Metaverso.
